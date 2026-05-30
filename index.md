@@ -3,7 +3,7 @@ title: BAM
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/ capaBAM.jpg
+hero_image: attachments/capaBAM.jpg
 hero_title: BAM
 hero_subtitle: Beatriz, Mariana, Assunção
 hero_height: 100vh
