@@ -15,8 +15,8 @@ student_number: ""
 ---
 
 # Comboio do Mar
-![](attachments/capamari.jpg)
 
+![](anexos/1.png)
 > Um puzzle de madeira inspirado no oceano que transforma a montagem numa experiência lúdica, educativa e criativa.
 
 ## Conceito
@@ -30,7 +30,7 @@ Destina-se a crianças em idade pré-escolar e escolar, podendo ser utilizado em
 **Porquê?**
 O projeto incentiva o desenvolvimento da coordenação motora, da perceção espacial e da criatividade. Simultaneamente, valoriza a utilização da madeira como material sustentável, refletindo os princípios da marca Nestor de criar brinquedos educativos através de um design consciente e responsável.
 
-![](attachments/placeholder.png)
+![](anexos/3.png)
 
 ## Enquadramento
 
@@ -58,11 +58,8 @@ A montagem é realizada através de encaixes simples entre as peças estruturais
 O projeto foi desenvolvido considerando os princípios gerais de segurança estabelecidos pela **Diretiva 2009/48/CE relativa à segurança dos brinquedos**, nomeadamente a utilização de materiais adequados, a eliminação de arestas cortantes e a garantia de dimensões compatíveis com a utilização infantil.
 
 ## Apresentação
-
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](anexos/13.png)
+![](anexos/2.png)
 
 ---
 
