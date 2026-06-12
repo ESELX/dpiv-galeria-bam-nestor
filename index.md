@@ -33,7 +33,9 @@ group_number: ""
 ## Contexto de Design
 
 X
-> O grupo BAM, constituído por Beatriz, Assunção e Mariana, desenvolveu a marca Nestor e uma coleção de brinquedos educativos em madeira inspirados no universo marinho. O projeto assenta em princípios de sustentabilidade, recorrendo ao reaproveitamento de materiais da indústria do mobiliário para criar objetos lúdicos e educativos. Os produtos Comboio do Mar, Balanceia e Baleia e Companhia partilham uma linguagem visual comum caracterizada por formas arredondadas, elementos marinhos e uma estética simples e acolhedora. Em conjunto, promovem a criatividade, a coordenação motora, a imaginação e a aprendizagem através da exploração e da brincadeira livre. A coerência entre os projetos resulta da aplicação dos mesmos valores formais e conceptuais, refletindo a identidade da marca Nestor e a sua ligação ao universo infantil, ao oceano e à sustentabilidade.
+> O grupo BAM, constituído por Beatriz, Assunção e Mariana, desenvolveu uma coleção de brinquedos educativos em madeira inspirados no universo marinho.
+> O projeto assenta em princípios de sustentabilidade, recorrendo ao reaproveitamento de materiais da indústria do mobiliário para criar objetos lúdicos e educativos. 
+> Os produtos Comboio do Mar, Balanceia e Baleia e Companhia partilham uma linguagem visual comum caracterizada por formas arredondadas, elementos marinhos e uma estética simples e acolhedora. Em conjunto, promovem a criatividade, a coordenação motora, a imaginação e a aprendizagem através da exploração e da brincadeira livre. A coerência entre os projetos resulta da aplicação dos mesmos valores formais e conceptuais, refletindo a identidade da marca Nestor e a sua ligação ao universo infantil, ao oceano e à sustentabilidade.
 
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
