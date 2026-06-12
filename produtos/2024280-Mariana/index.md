@@ -3,7 +3,7 @@ title: BAM
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/capamari.jpg
+hero_image: attachments/1.png
 hero_title: Comboio do Mar
 hero_subtitle: Mariana 2024280
 hero_height: 80vh
