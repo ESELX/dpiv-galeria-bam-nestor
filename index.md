@@ -56,7 +56,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024346-Beatriz/">
-    <img src="produtos/2024346-Beatriz/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024346-Beatriz/attachments/20.png" alt="" />
     <h3>Balanceia</h3>
     <p>Beatriz Cordeiro</p>
   </a>
@@ -66,7 +66,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Mariana Ferretto</p>
   </a>
   <a class="gallery-card" href="produtos/2024565-Assunção/">
-    <img src="produtos/2024565-Assunção/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024565-Assunção/attachments/16.png" alt="" />
     <h3>Baleia e Companhia</h3>
     <p>Maria Assunção</p>
   </a>
