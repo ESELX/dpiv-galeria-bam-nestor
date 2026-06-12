@@ -15,9 +15,9 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# BAM
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Três perspetivas criativas unidas na criação de brinquedos sustentáveis que promovem a aprendizagem através do brincar.
 
 ## Elementos do Grupo
 
@@ -31,10 +31,10 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+X
+> O grupo BAM, constituído por Beatriz, Assunção e Mariana, desenvolveu a marca Nestor e uma coleção de brinquedos educativos em madeira inspirados no universo marinho. O projeto assenta em princípios de sustentabilidade, recorrendo ao reaproveitamento de materiais da indústria do mobiliário para criar objetos lúdicos e educativos. Os produtos Comboio do Mar, Balanceia e Baleia e Companhia partilham uma linguagem visual comum caracterizada por formas arredondadas, elementos marinhos e uma estética simples e acolhedora. Em conjunto, promovem a criatividade, a coordenação motora, a imaginação e a aprendizagem através da exploração e da brincadeira livre. A coerência entre os projetos resulta da aplicação dos mesmos valores formais e conceptuais, refletindo a identidade da marca Nestor e a sua ligação ao universo infantil, ao oceano e à sustentabilidade.
+
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 

@@ -14,10 +14,11 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> O desenvolvimento do Comboio do Mar envolveu pesquisa, experimentação formal, modelação digital e prototipagem física.
 
 ## 1. Protótipo(s)
 
+Protótipo final produzido em MDF de 15 mm, representando a versão funcional do produto.
 
 ![](anexos/8.png)
 ![302](anexos/7.png)
@@ -26,7 +27,7 @@ published: true
 ![](anexos/4.png)
 ## 2. Processo de Prototipagem
 
-O...
+O processo envolveu modelação no Fusion 360, preparação dos ficheiros, corte CNC, montagem e acabamentos finais.
 ![](anexos/11.png)
 ![](anexos/9.png)
 ![](anexos/10.png)
@@ -37,24 +38,18 @@ O...
 
 ## 6. Esboços e Pranchas-Resumo
 
+Exploração de formas, encaixes e organização dos elementos através de esboços e pranchas de síntese.
+
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
-
-![](attachments/placeholder.png)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+Foram valorizadas as formas arredondadas presentes na identidade visual da marca Nestor, bem como a coerência estética entre os projetos coletivos do grupo. A linguagem visual associada ao oceano e às formas orgânicas influenciou diretamente o desenvolvimento formal do Comboio do Mar, garantindo uma ligação consistente entre o projeto individual e o universo visual da coleção.
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
