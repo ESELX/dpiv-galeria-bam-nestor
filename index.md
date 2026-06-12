@@ -61,7 +61,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Beatriz Cordeiro</p>
   </a>
 <a class="gallery-card" href="produtos/2024280-Mariana/">
-    <img src="produtos/2024280-Mariana/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024280-Mariana/attachments/1.png" alt="" />
     <h3>Comboio do Mar</h3>
     <p>Mariana Ferretto</p>
   </a>
