@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Balanceia
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -24,8 +24,6 @@ student_number: ""
 
 > Frase-conceito (uma linha): qual é a proposta?
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 

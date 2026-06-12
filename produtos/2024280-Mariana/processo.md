@@ -21,7 +21,7 @@ published: true
 Protótipo final produzido em MDF de 15 mm, representando a versão funcional do produto.
 
 ![](anexos/8.png)
-![302](anexos/7.png)
+![697](anexos/7.png)
 ![](anexos/6.png)
 ![](anexos/5.png)
 ![](anexos/4.png)
@@ -40,10 +40,14 @@ O processo envolveu modelação no Fusion 360, preparação dos ficheiros, corte
 
 Exploração de formas, encaixes e organização dos elementos através de esboços e pranchas de síntese.
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
+Desenhos manuais.
+X
+pranchas A3 de síntese.
+X
 exploração de variantes.
-
+X
+Primeira versão do Comboio do Mar
+[https://a360.co/43yxStX](https://a360.co/43yxStX)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -52,4 +56,5 @@ Foram valorizadas as formas arredondadas presentes na identidade visual da marca
 
 ### 7.2. Objetos de referencia
 
+X
 
