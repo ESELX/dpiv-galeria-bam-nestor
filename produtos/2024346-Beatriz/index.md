@@ -3,7 +3,7 @@ title: BAM
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/capaBAM
+hero_image: attachments/20.png
 hero_title: Nome do Produto
 hero_subtitle: Nome do Aluno · 2025-26
 hero_height: 80vh
@@ -16,11 +16,7 @@ student_number: ""
 
 # Balanceia
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+![](anexos/20.png)
 
 > Frase-conceito (uma linha): qual é a proposta?
 
@@ -48,10 +44,8 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](anexos/21.png)
 
 ---
 

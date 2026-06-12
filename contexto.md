@@ -14,7 +14,7 @@ published: true
 
 # Contexto de Design
 
-
+![](anexos/15%201.jpg)
 ## 1. Resumo / Abstract
 
 ### Resumo (PT)
