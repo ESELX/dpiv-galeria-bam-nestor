@@ -42,7 +42,7 @@ Exploração de formas, encaixes e organização dos elementos através de esbo�
 
 Desenhos manuais.
 X
-pranchas A3 de síntese.
+prancha A3 de síntese.
 ![](anexos/Prancha%20resumo%20comboio%20do%20mar.png)
 exploração de variantes.
 X
