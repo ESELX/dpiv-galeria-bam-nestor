@@ -68,7 +68,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <a class="gallery-card" href="produtos/2024565-Assunção/">
     <img src="produtos/2024565-Assunção/attachments/16.png" alt="" />
     <h3>Baleia e Companhia</h3>
-    <p>Maria Assunção</p>
+    <p>Maria da Assunção</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
