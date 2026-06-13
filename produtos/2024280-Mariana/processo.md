@@ -40,14 +40,20 @@ O processo envolveu modelação no Fusion 360, preparação dos ficheiros, corte
 
 Exploração de formas, encaixes e organização dos elementos através de esboços e pranchas de síntese.
 
-Desenhos manuais.
-X
-prancha A3 de síntese.
+**prancha A3 de síntese.
 ![](anexos/Prancha%20resumo%20comboio%20do%20mar.png)
-exploração de variantes.
-X
-Primeira versão do Comboio do Mar
+**exploração de variantes.**
+![](anexos/Mariana%20Ferretto.jpg)
+	O desenvolvimento do projeto começou com uma ideia bastante diferente da solução final: criar um puzzle que, depois de montado, pudesse permanecer exposto na vertical. Embora o conceito de um objeto construído através de peças de encaixe se tenha mantido ao longo do processo, a sua concretização foi evoluindo através da pesquisa e da exploração de referências. 
+	Durante esta fase, foi identificado o Carrinho Baleia Benê, da Pachu Design, um objeto cuja linguagem formal e ligação ao universo marinho despertaram particular interesse. A partir dessa referência, surgiu a ideia de combinar o conceito inicial do puzzle com a funcionalidade de um brinquedo de movimento. Desta aproximação nasceu o Comboio do Mar, um brinquedo que integra um sistema de encaixes e espaços negativos, permitindo simultaneamente a construção, a exploração e a brincadeira livre.
+
+
+
+**Primeira versão do Comboio do Mar**
 [https://a360.co/43yxStX](https://a360.co/43yxStX)
+
+Esta foi a primeira versão desenvolvida. A partir da análise do protótipo, foram identificadas oportunidades de melhoria relacionadas com a escala do objeto, a estabilidade da composição e o potencial de interação. Como resposta, o design foi reformulado, aumentando as dimensões gerais do brinquedo e introduzindo um maior número de peças de encaixe.
+Estas alterações permitiram enriquecer a experiência de utilização, tornando o processo de montagem mais desafiante e estimulante para a criança. Paralelamente, a nova versão reforçou a presença dos elementos marinhos e melhorou a relação entre as diferentes peças, contribuindo para uma solução final mais coerente, funcional e visualmente equilibrada.
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
