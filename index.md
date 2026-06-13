@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome             |
-| ------- | ---------------- |
-| 2024346 | Beatriz Cordeiro |
-| 2024280 | Mariana Ferretto |
-| 2024565 | Maria Assunção   |
+| Número  | Nome              |
+| ------- | ----------------- |
+| 2024346 | Beatriz Cordeiro  |
+| 2024280 | Mariana Ferretto  |
+| 2024565 | Maria da Assunção |
 
 
 ---
