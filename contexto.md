@@ -33,9 +33,10 @@ The collection includes the products Comboio do Mar, Balanceia and Baleia e Comp
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. 
 
+![](anexos/objeto1.png)
 
+- **Objeto 1 – Carrinho Baleia Benê de Madeira (Pachu Design)** — Brinquedo infantil em madeira inspirado na forma de uma baleia, selecionado pela sua ligação ao universo marinho, pelas formas arredondadas e pela simplicidade da sua linguagem visual.
 
-- **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
 
 ### 2.2. Moodboard

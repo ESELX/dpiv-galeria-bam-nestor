@@ -30,8 +30,8 @@ Destina-se a crianças em idade pré-escolar e escolar, podendo ser utilizado em
 **Porquê?**
 O projeto incentiva o desenvolvimento da coordenação motora, da perceção espacial e da criatividade. Simultaneamente, valoriza a utilização da madeira como material sustentável, refletindo os princípios da marca Nestor de criar brinquedos educativos através de um design consciente e responsável.
 
-![](anexos/3.png)
-
+![](anexos/moodboardmari.png)
+MoodBoard de referência individual.
 ## Enquadramento
 
 O Comboio do Mar integra a coleção de brinquedos da marca Nestor, um projeto centrado na criação de brinquedos de madeira sustentáveis inspirados no universo marinho e produzidos a partir do reaproveitamento de materiais. Em conjunto com os projetos Balanceia e Baleia e Companhia, partilha os valores de criatividade, aprendizagem e desenvolvimento infantil através do brincar.

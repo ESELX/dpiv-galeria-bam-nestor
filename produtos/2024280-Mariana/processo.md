@@ -56,5 +56,6 @@ Foram valorizadas as formas arredondadas presentes na identidade visual da marca
 
 ### 7.2. Objetos de referencia
 
-X
+![](anexos/objeto1.png)
+**Objeto 1 – Carrinho Baleia Benê de Madeira (Pachu Design)**  Brinquedo infantil em madeira inspirado na forma de uma baleia, selecionado pela sua ligação ao universo marinho, pelas formas arredondadas e pela simplicidade da sua linguagem visual. A análise deste objeto permitiu identificar uma experiência de utilização centrada principalmente no movimento do carrinho, com reduzidas possibilidades de construção e interação. A partir desta referência surgiu o desenvolvimento do **Comboio do Mar**, que procura expandir a experiência lúdica através da introdução de um sistema de peças de encaixe, promovendo a criatividade, a exploração espacial e a aprendizagem através da construção.
 
