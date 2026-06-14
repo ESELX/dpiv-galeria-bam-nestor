@@ -42,7 +42,7 @@ Pode ser utilizado individualmente ou por duas pessoas, permitindo tanto uma exp
 O projeto surge da intenção de criar um brinquedo que transforme uma ação simples, como equilibrar peças, numa experiência de aprendizagem e descoberta. Ao colocar os elementos sobre a baleia, a criança experimenta diferentes soluções, observa o comportamento das peças e compreende, de forma intuitiva, como o peso e o equilíbrio influenciam a estabilidade do jogo.
 
 Para além do lado educativo, o Balanceia valoriza uma linguagem visual simples, o contacto com materiais naturais e uma forma de brincar mais consciente. A utilização da madeira reforça a durabilidade do brinquedo e aproxima-o dos valores da marca Nestor, centrados na sustentabilidade, na qualidade e na criação de objetos pensados para acompanhar o desenvolvimento infantil.
-![](attachments/placeholder.png)
+X
 
 ## Enquadramento
 
