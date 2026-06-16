@@ -14,41 +14,12 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> O desenvolvimento do projeto Baleia e Companhia envolveu pesquisa, experimentação de formas e modelação digital.
 
-## 1. Protótipo(s)
-
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
+## 1. Modelos 3D
 
 
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
-
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
-
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 2. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
@@ -56,18 +27,14 @@ exploração de variantes.
 
 ![](attachments/placeholder.png)
 
-## 7. Pesquisa
+## 3. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal) 
+A pesquisa centrou-se em brinquedos educativos em madeira, em especial atenção a propostas associadas ao universo marinho e a sistemas de encaixe para um público infantil. Foram igualmente consideradas referências visuais caracterizadas por formas orgânicas, consoante a identidade gráfica da marca Nestor. Foi preciso assegurar uma continuidade estética e conceptual entre os diferentes projetos desenvolvidos dentro do grupo para garantir uma linguagem visual coerente e alinhada.
 
-![](attachments/placeholder.png)
-
-### 7.2. Objetos de referencia
+### 3.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
