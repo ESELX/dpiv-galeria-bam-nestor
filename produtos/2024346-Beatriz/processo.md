@@ -14,47 +14,33 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> O desenvolvimento da Balanceia envolveu pesquisa, experimentação formal, modelação digital e prototipagem física.
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Protótipo final produzido em MDF de 12 mm, representando a versão funcional do produto.
 
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+O processo passou pela modelação no Fusion 360, pela preparação dos ficheiros técnicos, pelo corte CNC, pela montagem das peças e pelos acabamentos finais.
 
 ![](attachments/placeholder.png)
 
 
-## 3. Protótipos Exploratórios
+## 3. Modelos 3D
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+[https://a360.co/4udgRkQ](https://a360.co/4udgRkQ)
 
-![](attachments/placeholder.png)
+## 4. Esboços e Pranchas-Resumo
 
-## 4. Modelos 3D
-
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
-
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
-
+Exploração das formas, dos encaixes e da organização das peças através de esboços e pranchas de resumo.
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
 
 ## 7. Pesquisa
 
