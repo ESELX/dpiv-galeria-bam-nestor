@@ -20,22 +20,16 @@ student_number: ""
 
 > Desafia as crianças a explorar novas formas de pensar através de puzzles de peças únicas e não convencionais, ao promover a criatividade e a descoberta da diversidade do mundo marinho.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
+
 **O que é?**
-
 Baleia e Companhia é uma coleção de brinquedos-puzzle em madeira inspirado nas diferentes espécies de cetáceos, como a baleia, a narval, a cachalote e a orca. Cada animal é composto por um conjunto de peças únicas, com encaixes orgânicos, que desafiam o utilizador a explorar diferentes formas de observação, associação e construção.
-
 Ao contrário dos puzzles tradicionais, as peças não seguem uma lógica geométrica previsível, o que incentiva a experimentação e a descoberta através do brincar.
 
 **Para quem?**
-
 Destina-se principalmente ao público infantil, pensado para a utilização tanto em contextos educativos como em momentos de lazer e de exploração autónoma. Tende a incentivar a aprendizagem através da experimentação e do contacto físico com o objeto.
 
 **Porquê?**
-
 Através da construção de diferentes espécies de cetáceos, a criança é incentivada a reconhecer características próprias de cada animal, aos mesmo tempo que desenvolve o raciocínio lógico por meio de encaixes. Este processo permite a exploração de formas, contrastes e texturas. Em paralelo, o brinquedo estabelece uma ligação ao universo marinho e à biodiversidade. Mais do que reproduzir uma imagem fixa, propõe uma abordagem criativa, onde cada peça assume uma identidade própria e onde existem caminhos para construir e interpretar o conjunto
 
 ## Enquadramento
