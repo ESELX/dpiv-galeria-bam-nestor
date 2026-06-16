@@ -19,15 +19,16 @@ published: true
 ## 1. Protótipo(s)
 
 Protótipo final produzido em MDF de 12 mm, representando a versão funcional do produto.
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
+![](anexos/prototipo%201.jpg)
+![](anexos/prototipo%202.jpg)
+![](anexos/prototipo%203.jpg)
+![](anexos/prototipo%204.jpg)
+![](anexos/prototipo%205.jpg)
 ## 2. Processo de Prototipagem
 
 O processo passou pela modelação no Fusion 360, pela preparação dos ficheiros técnicos, pelo corte CNC, pela montagem das peças e pelos acabamentos finais.
-
-![](attachments/placeholder.png)
+![](anexos/processo1.png)
+![](anexos/processo%202.png)
 
 
 ## 3. Modelos 3D
