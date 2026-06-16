@@ -3,7 +3,7 @@ title: BAM
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/capaBAM
+hero_image: attachments/16.png
 hero_title: Baleia e Companhia
 hero_subtitle: Maria da Assunção · 2025-26
 hero_height: 80vh
@@ -16,6 +16,7 @@ student_number: ""
 
 # Baleia e Companhia
 
+![](anexos/10.jpg)
 
 > Desafia as crianças a explorar novas formas de pensar através de puzzles de peças únicas e não convencionais, ao promover a criatividade e a descoberta da diversidade do mundo marinho.
 
@@ -61,11 +62,9 @@ O objeto cumpre os requisitos definidos pela Diretiva 2009/48/CE, assegurando a 
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
+![](anexos/baleia%20e%20companhia%20(1).png)
+![](anexos/baleia%20e%20companhia2.jpg)
+![](anexos/baleia%20e%20companhia3.png)
 ---
 
 ## Processo

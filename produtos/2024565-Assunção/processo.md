@@ -20,13 +20,8 @@ published: true
 
 
 ## 2. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/placeholder.png)
-
+![](anexos/prancha%20de%20resumo%20final.jpg)
+![](anexos/baleia%20e%20companhia%20desenho%20(1).pdf)
 ## 3. Pesquisa
 
 ### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal) 
