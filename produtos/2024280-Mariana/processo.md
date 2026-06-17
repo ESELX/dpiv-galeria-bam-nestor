@@ -42,7 +42,8 @@ Exploração de formas, encaixes e organização dos elementos através de esbo�
 
 **prancha A3 de síntese.
 ![](anexos/Prancha%20resumo%20comboio%20do%20mar.png)
-**exploração de variantes.**
+Exploração de variantes
+
 ![](anexos/Mariana%20Ferretto.jpg)
 	O desenvolvimento do projeto começou com uma ideia bastante diferente da solução final: criar um puzzle que, depois de montado, pudesse permanecer exposto na vertical. Embora o conceito de um objeto construído através de peças de encaixe se tenha mantido ao longo do processo, a sua concretização foi evoluindo através da pesquisa e da exploração de referências. 
 	Durante esta fase, foi identificado o Carrinho Baleia Benê, da Pachu Design, um objeto cuja linguagem formal e ligação ao universo marinho despertaram particular interesse. A partir dessa referência, surgiu a ideia de combinar o conceito inicial do puzzle com a funcionalidade de um brinquedo de movimento. Desta aproximação nasceu o Comboio do Mar, um brinquedo que integra um sistema de encaixes e espaços negativos, permitindo simultaneamente a construção, a exploração e a brincadeira livre.
