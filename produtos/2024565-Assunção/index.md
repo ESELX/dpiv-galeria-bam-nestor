@@ -39,6 +39,7 @@ O Baleia e Companhia faz parte da coleção de brinquedos da marca Nestor, um pr
 
 Este brinquedo distingue-se dos outros por apresentar uma abordagem baseada na exploração ativa e na construção de formas livres, em que não sei limita a uma solução pré-definida, mas cria múltiplas combinações de cetáceos.
 
+Para melhor contextualização do projeto, consulte [[contexto|Contexto]].
 ## Tecnologia
 
 O produto foi concebido através do software de modelação tridimensional Autodesk Fusion360, que permitiu desenvolver o modelo digital e preparar toda a documentação técnica necessária para a sua produção.

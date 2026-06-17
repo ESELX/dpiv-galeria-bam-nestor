@@ -45,3 +45,6 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho.
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
 ![](anexos/14.png)
+## 3. Embalagem:
+
+O desenvolvimento da embalagem da coleção Nestor, realizado coletivamente pelo grupo BAM, pode ser consultado em [[produtos/embalagem/index|Embalagem]].
