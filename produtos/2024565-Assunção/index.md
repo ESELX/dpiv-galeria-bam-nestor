@@ -32,6 +32,7 @@ Destina-se principalmente ao público infantil, pensado para a utilização tant
 **Porquê?**
 Através da construção de diferentes espécies de cetáceos, a criança é incentivada a reconhecer características próprias de cada animal, aos mesmo tempo que desenvolve o raciocínio lógico por meio de encaixes. Este processo permite a exploração de formas, contrastes e texturas. Em paralelo, o brinquedo estabelece uma ligação ao universo marinho e à biodiversidade. Mais do que reproduzir uma imagem fixa, propõe uma abordagem criativa, onde cada peça assume uma identidade própria e onde existem caminhos para construir e interpretar o conjunto
 
+![](anexos/Moodboard%20Individual.png)
 ## Enquadramento
 
 O Baleia e Companhia faz parte da coleção de brinquedos da marca Nestor, um projeto dedicado ao desenvolvimento de peças em madeira sustentáveis, inspiradas no universo marinho e produzidas através da reutilização de materiais. Em conjunto, os brinquedos refletem os mesmos princípios orientados para a criatividade, a aprendizagem e o desenvolvimento infantil, promovendo a descoberta através da brincadeira.
@@ -45,7 +46,7 @@ O produto foi concebido através do software de modelação tridimensional Autod
 A produção recorreu à tecnologia CNC (Controlo Numérico Computorizado), com utilização de MDF com 10 mm de espessura. Assim, foi possível obter cortes precisos, assegurando a consistência entre os componentes e garantiu o bom funcionamento dos encaixes na montagem do brinquedo.
 
 **Modelo 3D:**
-
+[https://a360.co/4fSc8kf](https://a360.co/4fSc8kf)
 ## Função
 
 O brinquedo destina-se a ser explorado através da manipulação e da montagem manual das suas peças em puzzle, sendo possível permitir à criança de criar as diferentes combinações de cetáceos. A montagem foi pensada para ser intuitiva e acessível ao estimular autonomia e sem a necessidade de instruções complexas.

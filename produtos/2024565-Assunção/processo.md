@@ -18,7 +18,7 @@ published: true
 
 ## 1. Modelos 3D
 
-
+[https://a360.co/4fSc8kf](https://a360.co/4fSc8kf)
 ## 2. Esboços e Pranchas-Resumo
 ![](anexos/prancha%20de%20resumo%20final.jpg)
 ![](anexos/baleia%20e%20companhia%20desenho%20(1).pdf)
@@ -29,7 +29,8 @@ A pesquisa centrou-se em brinquedos educativos em madeira, em especial atenção
 
 ### 3.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+Quebra-cabeça de madeira Vaca Castanha (Ludimondo)
+![](anexos/objeto%20referência.jpg)
 
-![](attachments/placeholder.png)
-
+O brinquedo é um quebra-cabeças artesanal de madeira inspirado nas pedagogias educativas de Montessori e Waldorf. É composto por várias peças recortadas que se encaixam para formarem a figura completa do animal.
+Este objeto foi uma referência importante para o desenvolvimento do projeto, pois mostrou como uma figura animal pode ser construída a partir de várias peças que se encaixam de forma a criar um todo, ao mostrar os seus detalhes característicos.
