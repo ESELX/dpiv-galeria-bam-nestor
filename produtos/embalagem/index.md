@@ -32,8 +32,8 @@ The use of corrugated cardboard, combined with stamps and identification labels,
 Visually, the packaging reflects the language of the toys through a minimalist aesthetic inspired by the marine environment.
 The presence of Nestor’s visual identity strengthens brand recognition and establishes a consistent connection between the different products in the collection. In this way, the packaging functions not only as a means of protecting the product, but also as a communication tool that conveys the principles of sustainability, creativity, and learning that define the project.
 
-![](anexos/Referencias.png)
-Moodboard embalagem - coletivo 
+![697](anexos/Referencias.png)
+
 
 ## Processo
 
@@ -45,6 +45,6 @@ The final packaging solution uses corrugated cardboard, stamps, and identificati
 
 **Modelo 3D:**
 
-## Apresentação
+## Embalagem final
 
 ![](anexos/embalagem%201.png)
