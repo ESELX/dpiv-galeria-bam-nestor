@@ -37,8 +37,9 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho.
 
 - **Objeto 1 – Carrinho Baleia Benê de Madeira (Pachu Design)** — Brinquedo infantil em madeira inspirado na forma de uma baleia, selecionado pela sua ligação ao universo marinho, pelas formas arredondadas e pela simplicidade da sua linguagem visual.
 
-- **Objeto 2** — ...
+![](anexos/objeto%20referência.jpg)
 
+- **Objeto 2** — **Quebra-cabeça de madeira Vaca Castanha (Ludimondo)**  O brinquedo é um quebra-cabeças de madeira inspirado nas pedagogias Montessori e Waldorf, composto por peças que se encaixam para formar um animal. Serviu como referência para o projeto por demonstrar como várias peças podem unir-se para criar uma figura completa, evidenciando as suas características principais.
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.

@@ -43,18 +43,17 @@ pranchas A3 de síntese,
 exploração de variantes.
 
 
-## 7. Pesquisa
+## 5. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
+### 5.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+X
 
-## 9. Outros Elementos
+## 6. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
