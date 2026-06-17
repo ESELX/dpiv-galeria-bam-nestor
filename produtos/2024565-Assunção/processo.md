@@ -27,7 +27,7 @@ published: true
 ### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal) 
 A pesquisa centrou-se em brinquedos educativos em madeira, em especial atenção a propostas associadas ao universo marinho e a sistemas de encaixe para um público infantil. Foram igualmente consideradas referências visuais caracterizadas por formas orgânicas, consoante a identidade gráfica da marca Nestor. Foi preciso assegurar uma continuidade estética e conceptual entre os diferentes projetos desenvolvidos dentro do grupo para garantir uma linguagem visual coerente e alinhada.
 
-### 3.2. Objetos de referencia
+### 3.2. Objeto de referencia
 
 Quebra-cabeça de madeira Vaca Castanha (Ludimondo)
 ![](anexos/objeto%20referência.jpg)
