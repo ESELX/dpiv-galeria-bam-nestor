@@ -60,8 +60,7 @@ O projeto foi desenvolvido considerando os princípios gerais de segurança esta
 ## Apresentação
 ![](anexos/13.png)
 ![](anexos/2.png)
-
----
+Render digital desenvolvido no Fusion 360 e posteriormente tratado com recurso a ferramentas de Inteligência Artificial para melhoria da apresentação visual.
 
 ## Processo
 

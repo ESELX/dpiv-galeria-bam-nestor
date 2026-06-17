@@ -1,0 +1,50 @@
+---
+title: BAM
+icon: lucide/box
+tags: galeria
+status: not-started
+hero_image: attachments/embalagem.png
+hero_title: Embalagem
+hero_subtitle: desenvolvimento coletivo · 2025-26
+hero_height: 80vh
+hero_overlay: 0.25
+hero_align: center
+published: true
+student_name: ""
+student_number: ""
+---
+
+# Embalagem
+
+> A embalagem da coleção Nestor foi desenvolvida para se adaptar às necessidades específicas de cada brinquedo, mantendo uma linguagem visual e construtiva comum. Esta abordagem garante flexibilidade dimensional sem comprometer a identidade gráfica e os valores da marca.
+> 
+> **[ENG]** The Nestor collection packaging was designed to adapt to the specific needs of each toy while maintaining a consistent visual and structural language. This approach ensures dimensional flexibility without compromising the brand's graphic identity and core values.
+## Conceito
+
+O conceito da embalagem assenta na criação de uma solução simples, sustentável e facilmente replicável para toda a coleção Nestor.
+A utilização de cartão canelado, associada à aplicação de carimbos e etiquetas de identificação, permite reduzir materiais e processos desnecessários, mantendo uma produção acessível e coerente com os valores da marca.
+Visualmente, a embalagem procura refletir a linguagem dos brinquedos através de uma estética minimalista inspirada no universo marinho.
+A presença da identidade gráfica da Nestor reforça o reconhecimento da marca e estabelece uma ligação consistente entre os diferentes produtos da coleção. Desta forma, a embalagem não funciona apenas como proteção do objeto, mas também como um elemento de comunicação dos princípios de sustentabilidade, criatividade e aprendizagem que definem o projeto.
+
+**[ENG]** 
+The packaging concept is based on creating a simple, sustainable, and easily replicable solution for the entire Nestor collection.
+The use of corrugated cardboard, combined with stamps and identification labels, helps reduce unnecessary materials and production processes while maintaining an accessible solution consistent with the brand’s values.
+Visually, the packaging reflects the language of the toys through a minimalist aesthetic inspired by the marine environment.
+The presence of Nestor’s visual identity strengthens brand recognition and establishes a consistent connection between the different products in the collection. In this way, the packaging functions not only as a means of protecting the product, but also as a communication tool that conveys the principles of sustainability, creativity, and learning that define the project.
+
+x
+Moodboard embalagem - coletivo 
+
+## Processo
+
+O desenvolvimento da embalagem iniciou-se com a pesquisa de soluções sustentáveis e sistemas de acondicionamento para brinquedos educativos. A partir desta análise, foram exploradas diferentes configurações de caixa capazes de acomodar os vários produtos da coleção Nestor, mantendo uma identidade visual comum.
+A solução final recorre a cartão canelado, carimbos e etiquetas de identificação, permitindo adaptar a embalagem a diferentes dimensões sem comprometer a coerência gráfica da marca.
+
+**[ENG]** The packaging development began with research into sustainable solutions and packaging systems for educational toys. Based on this analysis, different box configurations were explored in order to accommodate the various products within the Nestor collection while maintaining a consistent visual identity.
+The final solution uses corrugated cardboard, stamps, and identification labels, allowing the packaging to adapt to different dimensions without compromising the brand’s graphic coherence.
+
+**Modelo 3D:**
+
+## Apresentação
+
+![](anexos/embalagem%201.png)

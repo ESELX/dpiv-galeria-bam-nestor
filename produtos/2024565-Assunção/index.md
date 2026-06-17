@@ -60,7 +60,7 @@ O objeto cumpre os requisitos definidos pela Diretiva 2009/48/CE, assegurando a 
 ![](anexos/baleia%20e%20companhia%20(1).png)
 ![](anexos/baleia%20e%20companhia2.jpg)
 ![](anexos/baleia%20e%20companhia3.png)
----
+Render digital desenvolvido no Fusion 360 e posteriormente tratado com recurso a ferramentas de Inteligência Artificial para melhoria da apresentação visual.
 
 ## Processo
 

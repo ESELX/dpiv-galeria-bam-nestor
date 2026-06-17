@@ -34,7 +34,8 @@ O brinquedo destina-se a crianças em idade pré-escolar e escolar, podendo ser 
 #### Porquê?
 
 O projeto transforma o equilíbrio de peças numa experiência de aprendizagem e descoberta, ajudando a criança a compreender peso, equilíbrio e estabilidade. A Balanceia valoriza materiais naturais, uma linguagem simples e um brincar consciente, alinhado com os valores da Nestor: sustentabilidade, qualidade, durabilidade e desenvolvimento infantil.
-![](anexos/Moodboard%20Individual.png)
+![697](anexos/Moodboard%20Individual.png)
+MoodBoard de referência individual.
 ## Enquadramento
 
 A Balanceia integra a coleção de brinquedos da marca Nestor, um projeto focado na criação de brinquedos de madeira sustentáveis, desenvolvidos a partir do reaproveitamento de materiais provenientes da indústria do mobiliário.
@@ -62,8 +63,7 @@ O projeto considera critérios de segurança da Diretiva 2009/48/CE, como materi
 
 ![](anexos/21.png)
 ![](anexos/Apresentação%202.png)
----
-
+Render digital desenvolvido no Fusion 360 e posteriormente tratado com recurso a ferramentas de Inteligência Artificial para melhoria da apresentação visual.
 ## Processo
 
 O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.

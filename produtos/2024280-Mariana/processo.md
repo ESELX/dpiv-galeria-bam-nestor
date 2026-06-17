@@ -31,7 +31,7 @@ O processo envolveu modelação no Fusion 360, preparação dos ficheiros, corte
 ![](anexos/11.png)
 ![](anexos/9.png)
 ![](anexos/10.png)
-
+Cortadora CNC - recurso Fablab Benfica
 ## 4. Modelos 3D
 
 [https://a360.co/4x4igfq](https://a360.co/4x4igfq)
