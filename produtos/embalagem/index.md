@@ -43,7 +43,14 @@ A solução final recorre a cartão canelado, carimbos e etiquetas de identifica
 **[ENG]** The packaging development began with research into sustainable solutions and packaging systems for educational toys. Based on this analysis, different box configurations were explored in order to accommodate the various products within the Nestor collection while maintaining a consistent visual identity.
 The final packaging solution uses corrugated cardboard, stamps, and identification labels, allowing it to be adapted to different dimensions without compromising the brand’s visual consistency. To further enhance product protection, the packaging incorporates a cardboard insert based on an auxetic structure created through parametric cut patterns, enabling the material to expand and conform to the shape of the object. This solution acts as both a cushioning and securing element, reducing the need for additional materials while reinforcing the sustainable character of the packaging.
 
-**Representação:**
+**Planificação da embalagem/Packaging Dieline:**
+
+![](anexos/planificação.png)
+![](anexos/planificação%20embalagem.pdf)
+
+![](anexos/Medidas.png)
+
+**Representação e maquetização:**
 X
 X
 ## Embalagem final
