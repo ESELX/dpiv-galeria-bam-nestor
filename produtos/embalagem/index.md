@@ -57,8 +57,17 @@ The final packaging solution uses corrugated cardboard, stamps, and identificati
 ![](anexos/Adesivos.png)
 
 **Representação e maquetização:**
-X
-X
+
+![](anexos/32.png)
+![](anexos/30.png)
+
+![](anexos/33.png)
+![](anexos/31.png)
+A estrutura auxética funciona como uma malha de retenção que se adapta à forma do objeto através da sua capacidade de expansão. 
+Ao envolver o produto, mantém-no fixo e protegido no interior da embalagem, absorvendo pequenos impactos e evitando deslocações durante o transporte. 
+Esta solução permite substituir sistemas convencionais de enchimento, contribuindo para uma embalagem mais eficiente e sustentável.
+
+**[ENG]** The auxetic structure acts as a retention mesh that adapts to the shape of the object through its ability to expand. By enveloping the product, it keeps it securely fixed and protected inside the packaging, absorbing minor impacts and preventing movement during transport. This solution replaces conventional filling materials, contributing to a more efficient and sustainable packaging system.
 ## Embalagem final
 
 ![](anexos/embalagem%201.png)
