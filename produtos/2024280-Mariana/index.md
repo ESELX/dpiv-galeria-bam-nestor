@@ -38,7 +38,7 @@ O Comboio do Mar integra a coleção de brinquedos da marca Nestor, um projeto c
 
 Dentro desta coleção, distingue-se por combinar um sistema de puzzle de encaixe com um comboio funcional, proporcionando simultaneamente uma experiência de construção e de brincadeira livre. A utilização de elementos marinhos, como a baleia, os peixes e as estrelas-do-mar, reforça a identidade visual da marca e a coerência entre os diferentes produtos da coleção.
 
-Para melhor contextualização do projeto, consulte [[contexto|Contexto]].
+Para melhor contextualização do projeto, consulte [contexto.md](contexto.md).
 ## Tecnologia
 
 O produto foi desenvolvido recorrendo ao software de modelação tridimensional **Autodesk Fusion 360**, utilizado para a criação do modelo digital e dos ficheiros técnicos necessários ao fabrico.

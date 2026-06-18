@@ -42,7 +42,7 @@ A Balanceia integra a coleção de brinquedos da marca Nestor, um projeto focado
 
 Nesta coleção, o brinquedo destaca-se por transformar a forma da baleia num jogo de equilíbrio. A presença de elementos marinhos, como conchas e pequenas peças associadas ao oceano, reforça a identidade visual da marca e estabelece uma ligação coerente com os restantes produtos.
 
-Para melhor contextualização do projeto, consulte [[contexto|Contexto]].
+Para melhor contextualização do projeto, consulte [contexto.md](contexto.md).
 
 ## Tecnologia
 
