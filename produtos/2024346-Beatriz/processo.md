@@ -18,7 +18,7 @@ published: true
 
 ## 1. Protótipo(s)
 
-Protótipo final produzido em MDF de 12 mm, representando a versão funcional do produto.
+Protótipo final produzido em Valchromat de 12 mm, representando a versão funcional do produto.
 ![](anexos/prototipo%201.jpg)
 ![](anexos/prototipo%202.jpg)
 ![](anexos/prototipo%203.jpg)
@@ -47,11 +47,16 @@ Ao longo do processo, a forma da baleia foi ajustada, as peças ganharam maior d
 Foram também testados os encaixes, a espessura das peças e a estabilidade do conjunto. No último modelo 3D, foram adicionados **dogbones** nos encaixes, melhorando a produção em **CNC** e garantindo um encaixe mais preciso. A versão final tornou-se mais, funcional e adequada à utilização por crianças.
 ## 4. Esboços e Pranchas-Resumo
 
-Exploração das formas, dos encaixes e da organização das peças através de esboços e pranchas de resumo.
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+![](anexos/IMG_1770.png)
+Os **esboços** foram uma fase de exploração visual da **Balanceia**, permitindo estudar a silhueta da baleia, a escala do brinquedo e a relação entre os elementos do jogo. Através destes desenhos, foi possível desenvolver ideias iniciais e procurar soluções mais claras para comunicar o seu funcionamento.
 
+Nesta fase foram definidos elementos importantes, como a separação entre a base superior e inferior, as peças marinhas, o dado e a lógica de montagem.
+
+![](anexos/prancha%20de%20resumo.png)
+
+![](anexos/Prancha.png)
+
+A **prancha resumo** reúne estas decisões, apresentando o conceito, as medidas, os componentes, a utilização e a ordem de montagem, funcionando como uma síntese visual do projeto ligado à marca **Nestor.**
 
 ## 5. Pesquisa
 

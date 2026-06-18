@@ -3,7 +3,7 @@ title: BAM
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/20.png
+hero_image: attachments/23.png
 hero_title: Nome do Produto
 hero_subtitle: Nome do Aluno · 2025-26
 hero_height: 80vh
@@ -16,7 +16,7 @@ student_number: ""
 
 # Balanceia
 
-![](anexos/20.png)
+![](anexos/23.png)
 
 >Um brinquedo de madeira em forma de baleia, pensado para desafiar a criança a equilibrar peças, explorar soluções e brincar de forma criativa.
 
@@ -46,9 +46,9 @@ Para melhor contextualização do projeto, consulte [contexto.md](contexto.md).
 
 ## Tecnologia
 
-O produto foi desenvolvido com recurso ao software Autodesk Fusion 360, utilizado para a modelação tridimensional do brinquedo e para a preparação dos ficheiros técnicos necessários à sua produção.
+O produto foi desenvolvido com recurso ao software **Autodesk Fusion 360**, utilizado para a modelação tridimensional do brinquedo e para a preparação dos ficheiros técnicos necessários à sua produção.
 
-A produção das peças é realizada em MDF com 12 mm de espessura, através de tecnologia CNC (Controlo Numérico Computorizado). Este processo garante maior precisão nos encaixes, repetibilidade das formas e qualidade no acabamento, permitindo transformar o modelo digital num objeto físico funcional.
+A produção das peças é realizada em **Valchromat com 12 mm de espessura**, através de tecnologia **CNC (Controlo Numérico Computorizado)**. Este processo garante maior precisão nos encaixes, repetibilidade das formas e qualidade no acabamento, permitindo transformar o modelo digital num objeto físico funcional.
 
 **Modelo 3D:**
 [https://a360.co/4udgRkQ](https://a360.co/4udgRkQ)
@@ -56,7 +56,7 @@ A produção das peças é realizada em MDF com 12 mm de espessura, através de 
 
 A **Balanceia** funciona como um jogo de equilíbrio, onde a criança coloca pequenos elementos sobre a estrutura da baleia, tentando mantê-los estáveis sem os deixar cair. O brinquedo inclui também um dado, lançado durante a brincadeira, que indica qual será a próxima peça a colocar.
 
-Destina-se preferencialmente a crianças dos **3 aos 6 anos**, promovendo a coordenação motora e a perceção espacial através da manipulação das peças.
+Destina-se preferencialmente a crianças dos **5 aos 7 anos**, promovendo a coordenação motora e a perceção espacial através da manipulação das peças.
 
 A montagem inicial consiste na união de duas faces iguais de cada peça, criando a espessura necessária para dar resistência ao brinquedo. Depois, a base superior da baleia pode ser encaixada e desencaixada da base inferior, permitindo trocar entre diferentes formas inspiradas em espécies de baleias e variar o nível de dificuldade.
 
@@ -64,8 +64,10 @@ O projeto considera critérios de segurança da Diretiva 2009/48/CE, como materi
 ## Apresentação
 
 
-![](anexos/21.png)
-![](anexos/Apresentação%202.png)
+![310](anexos/21.png)
+
+![](anexos/Apresentação%202%201.png)
+
 Render digital desenvolvido no Fusion 360 e posteriormente tratado com recurso a ferramentas de Inteligência Artificial para melhoria da apresentação visual.
 ## Processo
 

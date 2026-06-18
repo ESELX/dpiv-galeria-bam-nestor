@@ -56,7 +56,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024346-Beatriz/">
-    <img src="produtos/2024346-Beatriz/attachments/20.png" alt="" />
+    <img src="produtos/2024346-Beatriz/attachments/23.png" alt="" />
     <h3>Balanceia</h3>
     <p>Beatriz Cordeiro</p>
   </a>
