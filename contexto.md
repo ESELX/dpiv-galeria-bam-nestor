@@ -33,13 +33,17 @@ The collection includes the products Comboio do Mar, Balanceia and Baleia e Comp
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. 
 
+![](anexos/Objetos%20de%20referencia.png)
+ - **Objeto 1- Jogo de equilíbrio em madeira — Playfinity** Referência utilizada para compreender a lógica de empilhar peças sobre uma base instável, explorando o peso, a posição e o equilíbrio.
+- **Objeto 2- Animais marinhos em madeira — Aksiwoodtoys** Referência utilizada pela sua linguagem simples e pelas formas inspiradas no oceano, contribuindo para uma linguagem visual mais lúdica e adequada às crianças.
+
 ![](anexos/objeto1.png)
 
-- **Objeto 1 – Carrinho Baleia Benê de Madeira (Pachu Design)** — Brinquedo infantil em madeira inspirado na forma de uma baleia, selecionado pela sua ligação ao universo marinho, pelas formas arredondadas e pela simplicidade da sua linguagem visual.
+- **Objeto 3 - Carrinho Baleia Benê de Madeira (Pachu Design)** — Brinquedo infantil em madeira inspirado na forma de uma baleia, selecionado pela sua ligação ao universo marinho, pelas formas arredondadas e pela simplicidade da sua linguagem visual.
 
 ![](anexos/objeto%20referência.jpg)
 
-- **Objeto 2** — **Quebra-cabeça de madeira Vaca Castanha (Ludimondo)**  O brinquedo é um quebra-cabeças de madeira inspirado nas pedagogias Montessori e Waldorf, composto por peças que se encaixam para formar um animal. Serviu como referência para o projeto por demonstrar como várias peças podem unir-se para criar uma figura completa, evidenciando as suas características principais.
+- **Objeto 4 - Quebra-cabeça de madeira Vaca Castanha (Ludimondo)**  O brinquedo é um quebra-cabeças de madeira inspirado nas pedagogias Montessori e Waldorf, composto por peças que se encaixam para formar um animal. Serviu como referência para o projeto por demonstrar como várias peças podem unir-se para criar uma figura completa, evidenciando as suas características principais.
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.

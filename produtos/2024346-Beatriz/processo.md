@@ -34,7 +34,17 @@ O processo passou pela modelação no Fusion 360, pela preparação dos ficheiro
 ## 3. Modelos 3D
 
 [https://a360.co/4udgRkQ](https://a360.co/4udgRkQ)
+ultima versão
 
+[https://a360.co/4uF94eY](https://a360.co/4uF94eY)
+Primeira versão
+
+**Evolução Modelo 3D**
+Durante o desenvolvimento da **Balanceia**, a modelação 3D no **Fusion 360** permitiu testar a forma, a montagem e o funcionamento do brinquedo. A primeira versão era mais simples, composta pela base superior e inferior da baleia, servindo para perceber a lógica dos encaixes e do equilíbrio.
+
+Ao longo do processo, a forma da baleia foi ajustada, as peças ganharam maior definição e foram criadas diferentes bases superiores inspiradas em espécies de baleias, permitindo variar os níveis de dificuldade.
+
+Foram também testados os encaixes, a espessura das peças e a estabilidade do conjunto. No último modelo 3D, foram adicionados **dogbones** nos encaixes, melhorando a produção em **CNC** e garantindo um encaixe mais preciso. A versão final tornou-se mais, funcional e adequada à utilização por crianças.
 ## 4. Esboços e Pranchas-Resumo
 
 Exploração das formas, dos encaixes e da organização das peças através de esboços e pranchas de resumo.
@@ -47,13 +57,18 @@ exploração de variantes.
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+A pesquisa visual partiu da observação de formas associadas ao oceano, à madeira e às diferentes espécies de baleias. Esta análise ajudou a definir a linguagem formal da **Balanceia**, com especial atenção às curvas, às silhuetas simples e à relação entre forma e função.
 
+A base superior desmontável surgiu a partir desta exploração, permitindo criar variações inspiradas em diferentes baleias e alterar o nível de dificuldade do jogo. A presença de elementos marinhos e da madeira reforça a identidade do brinquedo, criando uma ligação coerente com a marca **Nestor** e com a experiência de brincadeira.
 ### 5.2. Objeto de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+![](anexos/Objetos%20de%20referencia.png)
+**Objeto 1. Jogo de equilíbrio em madeira — Playfinity**
+Referência utilizada para compreender a lógica de empilhar peças sobre uma base instável, explorando o peso, a posição e o equilíbrio.
 
-X
+**Objeto 2. Animais marinhos em madeira — Aksiwoodtoys**
+Referência utilizada pela sua linguagem simples e pelas formas inspiradas no oceano, contribuindo para uma linguagem visual mais lúdica e adequada às crianças.
 
-## 6. Outros Elementos
+Em conjunto, estas referências ajudaram a desenvolver a **Balanceia** como um brinquedo que combina uma dinâmica de jogo desafiante com uma linguagem visual ligada ao oceano.
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+
