@@ -18,7 +18,7 @@ published: true
 
 ## 1. Protótipo(s)
 
-Protótipo final produzido em Valchromat de 12 mm, representando a versão funcional do produto.
+Protótipo final produzido em **Valchromat de 12 mm**, representando a versão funcional do produto.
 ![](anexos/prototipo%201.jpg)
 ![](anexos/prototipo%202.jpg)
 ![](anexos/prototipo%203.jpg)
